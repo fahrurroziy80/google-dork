@@ -72,3 +72,11 @@ site:target.com ext:js"Authorization"
 ---
 
 # 🔥 7. Cari JS dari CDN / static
+
+---
+```
+site:target.com inurl:static ext:js
+site:target.com inurl:assets ext:js
+site:target.com inurl:js ext:js
+```
+---
